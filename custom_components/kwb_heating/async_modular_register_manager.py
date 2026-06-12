@@ -53,8 +53,8 @@ class AsyncModularRegisterManager:
             "is_zero_indexed": True,
             "filename": "circulation.json",
             "lang": {
-                "de": {"name": "Zirkulation", "prefix": "ZIR"},
-                "en": {"name": "Circulation", "prefix": "CIRC"}
+                "de": {"name": "Zirkulation", "prefix": "Zirk"},
+                "en": {"name": "Circulation", "prefix": "Circ"}
             }
         },
         "solar": {
